@@ -1,4 +1,4 @@
 ## Project-Bank-Account-Simulator-
 A project that simulates the functions of a bank account.
-### Contributors: 
+### Contributor(s): 
 #### - Sofia M. Barrera Vega 
